@@ -1,7 +1,7 @@
 # xxqg-auto
 2022.06.05
-修复了OCR识别的正确率，滑动验证的问题！
-V2.1   https://wwm.lanzout.com/iGLNr05wvgte  密码:fujp
+修复了OCR识别的正确率，滑动验证等问题
+[自动学习_v2.12], 下载链接:https://wwp.lanzoup.com/iPFbe05xxyab  提取码 : 98yd, 你可以不限速下载哦
 
 2022.05.19
 修复了滑动验证，测试时间短，卡住了找客服！！
