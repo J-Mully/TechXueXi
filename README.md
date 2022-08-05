@@ -1,4 +1,8 @@
 # xxqg-auto
+2022.08.05
+新增多用户的 批量导入账号 手机根目录 zhanghao.txt   一行一个 （ 账号,密码,学习     账号,密码,学法）
+https://wwm.lanzout.com/iUVYH08nsjrg    密码:fsu5
+
 2022.06.05
 修复了OCR识别的正确率，滑动验证等问题
 [自动学习_v2.12], 下载链接:https://wwp.lanzoup.com/iPFbe05xxyab  提取码 : 98yd, 你可以不限速下载哦
