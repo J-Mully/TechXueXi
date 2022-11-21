@@ -1,3 +1,4 @@
+联系方式 https://chat.950505.xyz/chat/index?noCanClose=1&token=febd54694bae306880e964c233af3bd4&kefu_id=11
 # xxqg-auto
 2022.11.06 部分地区强国强国强制升级，做了两个版本
 QG强制升级，测试版 支持强国2.42，
