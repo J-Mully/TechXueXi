@@ -1,5 +1,9 @@
 联系方式 https://chat.950505.xyz/chat/index?noCanClose=1&token=febd54694bae306880e964c233af3bd4&kefu_id=11
 # xxqg-auto
+2022.12.01
+已支持QG2.43，新增 太空三人OCR识别。升级到最新即可。
+https://wwsj.lanzout.com/iAWRR0ha0x8j
+密码:8vhn
 2022.11.06 部分地区强国强国强制升级，做了两个版本
 QG强制升级，测试版 支持强国2.42，
 ocr失效，只能随机点击。不提供破解方法，有root后可以截图的，不提供，破解软件违法。
