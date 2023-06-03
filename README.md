@@ -1,5 +1,7 @@
 联系方式 https://chat.950505.xyz/chat/index?noCanClose=1&token=febd54694bae306880e964c233af3bd4&kefu_id=11
 # xxqg-auto
+2023.06.03
+适配2.46 四人、二人、挑战三合一
 2023.02.19
 支持学习强国最新图片滑动验证
 
