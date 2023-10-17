@@ -92,10 +92,10 @@ TechXueXi为python学 xi 交流的开源非营利项目，仅作为程序员之�
 **下载链接:**
 
 https://zdir.techxuexi.org/
-<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/blob/main/screenshot/techxuexi%20(2).jpg" />
-<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/blob/main/screenshot/techxuexi%20(4).jpg" />
-<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/blob/main/screenshot/techxuexi%20(5).jpg" />
-<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/blob/main/screenshot/techxuexi%20(6).jpg" />
+<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(2).jpg" />
+<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(4).jpg" />
+<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(5).jpg" />
+<img width=50% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(6).jpg" />
 # 📕问题提交
 
 在仔细阅读文档的前提下
