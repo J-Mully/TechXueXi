@@ -96,7 +96,6 @@ https://zdir.techxuexi.org/
 <img width=30% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(2).jpg" />
 <img width=30% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(4).jpg" />
 <img width=30% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(5).jpg" />
-<img width=30% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(6).jpg" />
 </div>
 
 # 📕问题提交
