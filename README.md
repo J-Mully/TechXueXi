@@ -92,6 +92,8 @@ TechXueXi为python学 xi 交流的开源非营利项目，仅作为程序员之�
 **下载链接:**
 
 https://zdir.techxuexi.org/
+
+# 应用截图
 <img width=20% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(2).jpg" />
 <img width=20% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(4).jpg" />
 <img width=20% src="https://raw.githubusercontent.com/J-Mully/TechXueXi/master/screenshot/techxuexi%20(5).jpg" />
